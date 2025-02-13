@@ -1,5 +1,5 @@
 # How to deploy your models and apps locally on your server
-[Screen](https://www.geeksforgeeks.org/screen-command-in-linux-with-examples/](https://linuxize.com/post/how-to-use-linux-screen/) - is the powerful Linux command that allows to continue to run any terminal session on your server even if your ssh connection with your local computer is disrupted.
+[Screen](https://linuxize.com/post/how-to-use-linux-screen/) - is the powerful Linux command that allows to continue to run any terminal session on your server even if your ssh connection with your local computer is disrupted.
 Simple usage cases that I would constantly use:
 1) running multiple training of ML/DL models
 2) deploy APIs
